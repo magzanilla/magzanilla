@@ -1,7 +1,7 @@
 !["Magz" Banner](https://github.com/magzanilla/magzanilla/assets/22608199/cfd6fc6a-a156-43a5-8a9b-376633e4b65c)
 
 <h1 align="center">Hi 👋, Magz at your service !</h1>
-<h3 align="center">Front-end developer and artist from the Carribeans,
+<h3 align="center">Front-end developer and artist from the Caribbeans,
   <br/> re-learning everything from scratch !</h3>
 
 ``Profile: A work-in-progress, will expand``
