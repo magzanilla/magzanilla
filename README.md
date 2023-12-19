@@ -4,38 +4,60 @@
 <h3 align="center">Front-end developer and artist from the Caribbeans,
   <br/> re-learning everything from scratch !</h3>
 
-``Profile: A work-in-progress, will expand``
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a> 
+</p>
 
-- 🌱 Currently re-learning **Javascript, Python, and React. (30 days of Javascript. 2022 Bootcamp Dev.)**
+<!--
+<p align="center">
+  <a href="https://links.magzanilla.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="magzanilla links"/> </a> 
+  <a href="mailto:magzanilla@pm.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="e-mail"/> </a> 
+</p>
+-->
 
-- 📝 Sometimes, writes articles on [magzanilla.com](https://magzanilla.com)
+``Profile: A work-in-progress``
 
-- 💬 Interested in **Accessibility, Personal Knowledge Management, Open Source, and Open Knowledge**
 
-- 📫 How to reach Magz **email: magzanilla@pm.me**
+- 🌱 Currently re-learning with **"[30 days of Javascript](https://github.com/magzanilla/30-Days-Of-JavaScript)" and "2022 Bootcamp Dev"**
+
+- 🎨 Interested in **Accessibility, Personal Knowledge Management, Digital Art, Open Source, Learning, and Open Knowledge**
 
 - 💚 Loves **Tea 🍵, Cats 🐱, Synth Music 🎵, and Making Things 🎨**
+  
+- 💬 Mostly "fluent" in English and Spanish. Learning Japanese (B1), American Sign Language Dialects. 
 
-
-<h3 align="left">Connect with Magz:</h3>
+<!--
 <p align="left">
-<a href="https://twitter.com/magzanilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magzanilla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/magzanilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="magzanilla" height="30" width="40" /></a>
-</p>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" alt="obsidian" width="40" height="40"/>
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p align="left">
-<a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" alt="obsidian" width="40" height="40"/>
-</a>
-
-<a href="https://logseq.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/magzanilla/magzanilla/assets/22608199/3a7d59fb-7279-4ebd-89c8-8cb424cace68" alt="logseq" width="40" height="40"/>
+  <a href="https://logseq.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/magzanilla/magzanilla/assets/22608199/3a7d59fb-7279-4ebd-89c8-8cb424cace68" alt="logseq" width="40" height="40"/>
   </a>
 </p>
+-->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/magzanilla"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="magzanilla" /></a></p><br><br>
+<br /> <br />
+<h3 align="center"> Watch The Github Score Go Up: </h3>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=magzanilla&theme=dark" alt="Github User Score">
+</p>
 
+<h3 align="center">Learned with:</h3>
+<p align="center">
+<a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" ></a>
+<a href="https://www.coursera.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"></a>
+</p>
+
+<h3 align="center"> Socials & Support:</h3>
+<p align="center">
+  <a href="https://twitter.com/magzanilla" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="magzanilla" /></a>
+  <a href="https://www.youtube.com/@magzanilla/live" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="magzanilla" /></a>
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/magzanilla"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" /></a>
+  <a href="https://bit.ly/MagzDonate"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal" /></a>
+</p> <br />
