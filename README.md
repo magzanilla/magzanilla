@@ -36,3 +36,9 @@
   <a href="https://ko-fi.com/magzanilla"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" /></a>
   <a href="https://bit.ly/MagzDonate"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal" /></a>
 </p> 
+
+---
+
+Profile Visits Since Profile Revamp:
+
+<img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=magzanilla" alt="Profile Visits to Magzanilla">
