@@ -27,9 +27,9 @@
 <!--👉 *See more in pinned repos below*  -->
 
 ## 🤝 Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/magzanilla/)  
 - 📄 [Resume](https://drive.google.com/file/d/13LObYsizdcXGFZlKgbdEKo-5yn13AuIj/view?usp=drive_link)  
-- ✉️ Email: magz.plus052@passinbox.com 
+- ✉️ Email: magz.plus052@passinbox.com
+- (portfolio to be added here)
 
 ## 🎁 Support
 <p align="center">
