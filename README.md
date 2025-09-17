@@ -27,7 +27,7 @@
 <!--👉 *See more in pinned repos below*  -->
 
 ## 🤝 Connect  
-- 📄 [Resume](https://drive.google.com/file/d/13LObYsizdcXGFZlKgbdEKo-5yn13AuIj/view?usp=drive_link)  
+- 📄 [Resume](https://docs.google.com/document/d/1Sz06XBOCn3e4Td-Oksl-enHfldkBFnuSlJpe7K71o_w/edit?usp=drive_link)  
 - ✉️ Email: magz.plus052@passinbox.com
 - (portfolio to be added here)
 
